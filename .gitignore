@@ -1,0 +1,10 @@
+[Bb]in/
+[Oo]bj/
+packages/
+.vs/
+**/.vs/
+*.user
+*.suo
+*.cache
+*.log
+.git_old_backup/
